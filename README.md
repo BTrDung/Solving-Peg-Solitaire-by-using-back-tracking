@@ -9,3 +9,21 @@ At the start, every hole except the center is filled with a peg. The player then
 
 Vertical and horizontal jumps are allowed, but diagonal jumps are forbidden. The goal is to reach a position where only one peg remains.
 
+## Requirements: 
+> Download ![](https://img.shields.io/badge/python%20-3.9.4-brightgreen):  https://www.python.org/downloads/
+> 
+> Downliad ![](https://img.shields.io/badge/vscode%20-1.15.2-brightgreen): https://code.visualstudio.com/download
+
+Or 
+ 
+> Download Pycharm ![](https://img.shields.io/badge/pycharm%20-2021.1-brightgreen):https://www.jetbrains.com/pycharm/download/#section=windows
+> 
+> Anaconda ![](https://img.shields.io/badge/anaconda%20-2020.11-brightgreen): https://docs.anaconda.com/anaconda/install/
+
+## Installation: 
+
+Download my [git](https://github.com/BTrDung/Peg_Solitaire) as a ZIP file: https://github.com/BTrDung/Peg_Solitaire
+
+## How to run:
+
+> ```python PegSolitaire.py```
