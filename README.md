@@ -1,7 +1,12 @@
 # Peg_Solitaire
 ## Description: 
-This is a project for CS112. Make game with using back tracking.
+This is a project for CS112. Make a game Peg Solitaire. 
 
+|No.| Method | Release | 
+|:--:|:--:|:--:|
+| ```01``` | ```Back Tracking``` | ![](https://img.shields.io/badge/backtracking%20-complete-brightgreen) |
+| ```02``` | ```Depth First Search``` |   ![](https://img.shields.io/badge/dfs%20-Uncomplete-red) |
+| ```03``` | ```Breadth First Search``` | ![](https://img.shields.io/badge/bfs%20-Uncomplete-red) |
 ## Introduction
 Peg Solitaire is a game that consists of a board with 33 holes arranged in the pattern given in the pictures below. 
 
