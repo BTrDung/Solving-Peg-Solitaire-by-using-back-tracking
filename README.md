@@ -32,3 +32,7 @@ Download my [git](https://github.com/BTrDung/Peg_Solitaire) as a ZIP file: https
 ## How to run:
 
 > ```python PegSolitaire.py```
+
+## References: 
+
+I really thank for https://github.com/amal4joy/Peg-Solitaire.
