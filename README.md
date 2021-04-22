@@ -35,4 +35,5 @@ Download my [git](https://github.com/BTrDung/Peg_Solitaire) as a ZIP file: https
 
 ## References: 
 
-I really thank for https://github.com/amal4joy/Peg-Solitaire.
+I really thank for https://github.com/amal4joy/Peg-Solitaire and http://people.cst.cmich.edu/graha1sw/pub/pegsol/englishpegsol.pdf. 
+
