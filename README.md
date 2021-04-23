@@ -1,6 +1,6 @@
 # Peg_Solitaire
 ## Description: 
-This is a project for CS112. Make a game Peg Solitaire. 
+This repo is created from improvisation in the process of understanding and learning itself.
 
 |No.| Method | Release | 
 |:--:|:--:|:--:|
